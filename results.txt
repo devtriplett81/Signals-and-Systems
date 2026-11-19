@@ -1,0 +1,11 @@
+A = 1.0, alpha = 8.0, omega0=314.159265359, t0 = 0.1
+Fs = 2000, N = 2048, L = 8192, n0 = 200
+Omega_c = 251.327412287 rad/s
+Positive-frequency index k0 = 205; negative index = 7987
+Nearest positive bin = 314.466061517 rad/s
+Continuous passband energy = 0.00056555457134
+Continuous total energy = 0.0312702511048
+Energy retained=1.808603%
+Discrete energy from DFT = 0.000572514881401
+Discrete energy from time samples =0.000572514881401
+Max imaginary IFFT residue=1.81e-17
